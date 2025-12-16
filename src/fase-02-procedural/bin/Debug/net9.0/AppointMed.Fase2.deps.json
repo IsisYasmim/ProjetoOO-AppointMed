@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AppointMed.Fase2/1.0.0": {
+        "runtime": {
+          "AppointMed.Fase2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppointMed.Fase2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
