@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\bin\Debug\net9.0\AppointMed.Fase4.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\bin\Debug\net9.0\AppointMed.Fase4.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\bin\Debug\net9.0\AppointMed.Fase4.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\bin\Debug\net9.0\AppointMed.Fase4.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\bin\Debug\net9.0\AppointMed.Fase4.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\refint\AppointMed.Fase4.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\AppointMed.Fase4.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-04-repository-inmemory\obj\Debug\net9.0\ref\AppointMed.Fase4.dll
