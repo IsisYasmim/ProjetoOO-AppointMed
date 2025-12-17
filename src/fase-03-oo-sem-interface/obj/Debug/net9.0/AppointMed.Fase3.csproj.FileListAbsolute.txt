@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\bin\Debug\net9.0\AppointMed.Fase3.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\bin\Debug\net9.0\AppointMed.Fase3.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\bin\Debug\net9.0\AppointMed.Fase3.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\bin\Debug\net9.0\AppointMed.Fase3.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\bin\Debug\net9.0\AppointMed.Fase3.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\refint\AppointMed.Fase3.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\AppointMed.Fase3.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-03-oo-sem-interface\obj\Debug\net9.0\ref\AppointMed.Fase3.dll
