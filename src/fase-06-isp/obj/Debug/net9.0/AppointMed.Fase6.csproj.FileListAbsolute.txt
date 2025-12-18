@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\bin\Debug\net9.0\AppointMed.Fase6.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\bin\Debug\net9.0\AppointMed.Fase6.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\bin\Debug\net9.0\AppointMed.Fase6.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\bin\Debug\net9.0\AppointMed.Fase6.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\bin\Debug\net9.0\AppointMed.Fase6.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\refint\AppointMed.Fase6.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\AppointMed.Fase6.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-06-isp\obj\Debug\net9.0\ref\AppointMed.Fase6.dll
