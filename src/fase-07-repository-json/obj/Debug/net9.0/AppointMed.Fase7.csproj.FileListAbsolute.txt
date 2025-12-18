@@ -1,0 +1,5 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-07-repository-json\obj\Debug\net9.0\AppointMed.Fase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-07-repository-json\obj\Debug\net9.0\AppointMed.Fase7.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-07-repository-json\obj\Debug\net9.0\AppointMed.Fase7.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-07-repository-json\obj\Debug\net9.0\AppointMed.Fase7.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-07-repository-json\obj\Debug\net9.0\AppointMed.Fase7.sourcelink.json

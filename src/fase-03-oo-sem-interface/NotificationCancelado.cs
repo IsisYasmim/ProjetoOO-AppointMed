@@ -2,8 +2,8 @@ using System;
 
 public sealed class NotificationCancelado : Notification
 {
-    public NotificationCancelado(string nome, string servico, DateTime dataConsulta)
-        : base(nome, servico, dataConsulta) { }
+    public NotificationCancelado(string nome, string tipoConsulta, DateTime dataConsulta)
+        : base(nome, tipoConsulta, dataConsulta) { }
 
     protected override string NotificationText()
     {
