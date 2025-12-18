@@ -1,1 +1,5 @@
 **/bin/
+/obj/
+/fase-11-projeto/AppointMed/.vs
+**/AppointMed/bin/
+**/AppointMed/obj/

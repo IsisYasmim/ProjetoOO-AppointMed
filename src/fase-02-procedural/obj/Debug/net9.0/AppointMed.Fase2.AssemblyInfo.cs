@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointMed.Fase2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+002f2ded33ac6d33d7d6de8fc95cd1056034bad7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b30554ded663961f183dc235d6455070d03fd958")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointMed.Fase2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointMed.Fase2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
