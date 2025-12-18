@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\bin\Debug\net9.0\AppointMed.Fase5.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\bin\Debug\net9.0\AppointMed.Fase5.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\bin\Debug\net9.0\AppointMed.Fase5.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\bin\Debug\net9.0\AppointMed.Fase5.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\bin\Debug\net9.0\AppointMed.Fase5.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\refint\AppointMed.Fase5.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\AppointMed.Fase5.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\AppointMed\src\fase-05-repository-csv\obj\Debug\net9.0\ref\AppointMed.Fase5.dll
